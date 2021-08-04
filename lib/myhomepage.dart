@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_calculator_app/model/tombol.dart';
+import 'package:flutter_calculator_app/widgets/tombol.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 class MainBody extends StatefulWidget {
